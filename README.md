@@ -10,7 +10,6 @@ https://github.com/burnsoftnet/Documentation/blob/master/GPIOMonitor.pdf
 
 <img src="https://github.com/burnsoftnet/GPIOMonitor/blob/master/gpioMonitor.PNG?raw=true">
 
-<br/>
 
-<br/>
+
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JSW8XEMQVH4BE)]
